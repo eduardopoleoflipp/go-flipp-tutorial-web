@@ -1,0 +1,26 @@
+[
+  {
+    "Title": "Small Post",
+    "Content": "A post about birds",
+    "CreatedAt": "Fri 19th, 2023",
+    "Author": "John McWilly",
+    "ViewCount": 1,
+    "LastViewed": "2025-06-04"
+  },
+  {
+    "Title": "A very long Post",
+    "Content": "A very long post about tress",
+    "CreatedAt": "Fri 19th, 2023",
+    "Author": "Matt Da Silve",
+    "ViewCount": 2,
+    "LastViewed": "2025-06-04"
+  },
+  {
+    "Title": "My First Post",
+    "Content": "This is the content of the post.",
+    "CreatedAt": "2025-06-04",
+    "Author": "Jane Doe",
+    "ViewCount": 0,
+    "LastViewed": "2025-06-04"
+  }
+]
